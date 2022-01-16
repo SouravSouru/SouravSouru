@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SouravSouru
-- 🔭 I'm currently working on Facebook Complete UI
+- 🔭 I'm currently working on Money Management App
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Flutter & Dart
 - 📫 How to reach me souravkk2021@gmail.com
