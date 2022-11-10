@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SouravSouru
-- 🌱 I’m currently learning Flutter 
+- 🧑‍💻 Flutter Developer
 - 💬 Ask me about Flutter & Dart
 - 📫 How to reach me souravkk2021@gmail.com
 
