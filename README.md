@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Sourav%20K%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Desktop%20Engineer&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Sourav%20K%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45)
+
+### Flutter Developer &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; Web &nbsp;·&nbsp; Desktop
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+4%2B+Years+XP;Mobile+%7C+Web+%7C+Desktop+Engineer;Bloc+%7C+Riverpod+%7C+Clean+Architecture;Firebase+%7C+GCP+%7C+REST+APIs)](https://git.io/typing-svg)
 
@@ -138,25 +140,23 @@ class SouravKK {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Viewy Digital Pvt. Ltd — Senior Flutter Developer &nbsp;|&nbsp; Sep 2023 – Present &nbsp;|&nbsp; Kochi, India</b></summary>
+<summary><b>🏢 Viewy Digital Pvt. Ltd — Senior Flutter Developer | Sep 2023 – Present | Kochi, India</b></summary>
+<br>
 
-<br/>
-
-> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-37474F?style=flat-square&logo=buffer&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-ef5350?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF5722?style=flat-square&logo=fastapi&logoColor=white)
+**Stack:** Flutter &bull; Dart &bull; Bloc &bull; Riverpod &bull; Clean Architecture &bull; MVVM &bull; Firebase &bull; REST APIs &bull; Payment Gateways
 
 - 🚀 Led end-to-end development and deployment of **6+ applications** across mobile, web, and desktop (Windows) platforms, including production build generation and installer creation.
 - 🖥️ Architected and shipped a **Flutter desktop Laundry POS system** covering billing, order management, and service workflows — the first desktop product in the company's portfolio.
-- 📱 Delivered **QuickAMC**, **AnyRental**, and **Swiss Auto** apps with Clean Architecture & MVVM, significantly improving codebase scalability and long-term maintainability.
+- 📱 Delivered **QuickAMC**, **AnyRental**, and **Swiss Auto** apps with Clean Architecture and MVVM, significantly improving codebase scalability and long-term maintainability.
 - 💳 Integrated multiple **payment gateways** (Razorpay, PayTabs, Telr, Amazon PayFort) and real-time Firebase databases, reducing checkout friction across client apps.
 
 </details>
 
 <details>
-<summary><b>🏢 Futura Labs Technologies — Flutter Developer &nbsp;|&nbsp; Sep 2022 – Sep 2023 &nbsp;|&nbsp; Kerala, India</b></summary>
+<summary><b>🏢 Futura Labs Technologies — Flutter Developer | Sep 2022 – Sep 2023 | Kerala, India</b></summary>
+<br>
 
-<br/>
-
-> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Shelf](https://img.shields.io/badge/Shelf_Framework-0175C2?style=flat-square&logo=dart&logoColor=white)
+**Stack:** Flutter &bull; Dart &bull; Firebase &bull; Shelf Framework &bull; Cloud Functions &bull; REST APIs
 
 - 🏅 Recognised as **Best Performer of the Month** for outstanding contributions to product delivery and team productivity.
 - 🔧 Built **RESTful APIs in Dart** using the Shelf framework, enabling seamless Flutter-backend integration without switching technology stacks.
@@ -166,13 +166,12 @@ class SouravKK {
 </details>
 
 <details>
-<summary><b>🏢 Airo Global Software Inc — Jr Flutter Developer &nbsp;|&nbsp; Feb 2022 – Aug 2022 &nbsp;|&nbsp; Remote</b></summary>
+<summary><b>🏢 Airo Global Software Inc — Jr Flutter Developer | Feb 2022 – Aug 2022 | Remote</b></summary>
+<br>
 
-<br/>
+**Stack:** Flutter &bull; Dart &bull; REST APIs &bull; Third-party Libraries
 
-> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-FF5722?style=flat-square&logo=fastapi&logoColor=white)
-
-- 📲 Developed and maintained **production mobile applications** using Flutter & Dart from the ground up.
+- 📲 Developed and maintained **production mobile applications** using Flutter and Dart from the ground up.
 - 🔗 Implemented REST API integrations and third-party library packages within existing app ecosystems.
 - 🎨 Collaborated with UI/UX designers to translate Figma mockups into pixel-perfect Flutter widgets.
 - 🛠️ Delivered iterative bug fixes and feature additions, maintaining high app stability across releases.
