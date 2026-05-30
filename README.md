@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourav%20K%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Desktop%20Engineer&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Sourav%20K%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Desktop%20Engineer&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+4%2B+Years+XP;Mobile+%7C+Web+%7C+Desktop+Engineer;Bloc+%7C+Riverpod+%7C+Clean+Architecture;Firebase+%7C+GCP+%7C+REST+APIs)](https://git.io/typing-svg)
 
@@ -129,7 +129,7 @@ class SouravKK {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SouravSouru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=SouravSouru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -247,4 +247,4 @@ class SouravKK {
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling)
