@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+4%2B+Years+XP;Mobile+%7C+Web+%7C+Desktop+Engineer;Bloc+%7C+Riverpod+%7C+Clean+Architecture;Firebase+%7C+GCP+%7C+REST+APIs)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=souravkk2021&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/souravkk2021)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravkk2021)
+[![Profile Views](https://komarev.com/ghpvc/?username=SouravSouru&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/SouravSouru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-kk)
 [![Email](https://img.shields.io/badge/Email-souravkk2021%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:souravkk2021@gmail.com)
 
 </div>
@@ -94,11 +94,11 @@ class SouravKK {
 
 <div align="center">
 
-<a href="https://github.com/souravkk2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravkk2021&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/SouravSouru">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouravSouru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/souravkk2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravkk2021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/SouravSouru">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravSouru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -109,7 +109,7 @@ class SouravKK {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=souravkk2021&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SouravSouru&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +119,7 @@ class SouravKK {
 
 <div align="center">
 
-[![Sourav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=souravkk2021&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/souravkk2021)
+[![Sourav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SouravSouru&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/SouravSouru)
 
 </div>
 
@@ -129,7 +129,7 @@ class SouravKK {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=souravkk2021&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SouravSouru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
